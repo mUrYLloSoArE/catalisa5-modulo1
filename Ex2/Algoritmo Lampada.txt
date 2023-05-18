@@ -1,0 +1,9 @@
+Algoritmo Lampada
+- Desligue a caixa de energia elétrica da sua casa
+- Espere a lampada esfriar
+- Gire a lâmpada no sentido anti-horário;
+- Tire a lampada
+- Pegue uma nova lampada e coloque no lugar
+- Rosqueando no sentido horário no soquete;
+- Colocada, vá até a caixa de ernegia
+- E ligue novamente a energia elétrica.
